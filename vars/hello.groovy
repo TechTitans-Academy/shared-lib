@@ -1,3 +1,3 @@
 def call(){
-  echo "Hello From Shared Lib"
+  echo "Hello from github repo!"
 }
