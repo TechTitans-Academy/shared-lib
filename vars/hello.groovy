@@ -1,3 +1,3 @@
 def call(){
-  echo "Hello from github repo!"
+  echo "Hi there - Today is Friday!"
 }
